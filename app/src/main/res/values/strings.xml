@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Khan\'s Android Labs</string>
+    <string name="hello_message">Hello world!</string>
+    <string name="button_message">i\'am a button</string>
 </resources>
