@@ -3,4 +3,7 @@
     <string name="app_name">Khan\'s Android Labs</string>
     <string name="hello_message">حلو ورلڑ</string>
     <string name="button_message">مے بٹن حو</string>
+    <string name="editmessage">میں ایک ترمیمی متن ہوں۔</string>
+    <string name="hinttext">یہاں کچھ لکھیں۔</string>
+    <string name="parameter">کیا آپ کافی پیتے ہیں؟</string>
 </resources>
