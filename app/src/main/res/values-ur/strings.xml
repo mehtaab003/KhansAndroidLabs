@@ -3,4 +3,8 @@
     <string name="app_name">Khan\'s Android Labs</string>
     <string name="hello_message">حلو ورلڑ</string>
     <string name="button_message">مے بٹن حو</string>
+    <string name="spin_message">گھماؤ پرچم</string>
+    <string name="button1">بٹن 1</string>
+    <string name="button2">بٹن 2</string>
+    <string name="button3">بٹن 3</string>
 </resources>

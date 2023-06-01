@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_primary">#FF5722</color>
+    <color name="my_secondary">#E91E63</color>
+    <color name="my_statusbar">#03A9F4</color>
+    <color name="my_text">#673AB7</color>
+
+    <color name="black">#14E7FB</color>
+    <color name="white">#5A4C4C</color>
+</resources>
