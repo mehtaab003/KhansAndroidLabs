@@ -1,4 +1,4 @@
-package algonquin.cst2335.khan0498;
+package algonquin.cst2335.khan0498.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import algonquin.cst2335.khan0498.R;
 
 /** Main Activity first screen of the Application
  * @author Mohammad Mehtaab Khan
