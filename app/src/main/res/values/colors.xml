@@ -5,6 +5,7 @@
     <color name="my_statusbar">#4CAF50</color>
     <color name="my_text">#00BCD4</color>
 
+    <color name="purple_200">#673AB7</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
