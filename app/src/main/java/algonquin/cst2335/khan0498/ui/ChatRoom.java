@@ -86,7 +86,7 @@ public class ChatRoom extends AppCompatActivity {
                 }
                 break;
             case R.id.item_2:
-                Toast.makeText(this, "Version 1.0, created by Sujal Jatin Chevli", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Version 1.0, created by Mohammad Mehtaab Khan", Toast.LENGTH_SHORT).show();
                 break;
         }
         return true;
@@ -111,7 +111,7 @@ public class ChatRoom extends AppCompatActivity {
         setSupportActionBar(binding.myToolbar);
         EditText textInput=findViewById(R.id.textInput);
         messages = chatModel.messages.getValue();
-        chatModel.selectedMessage.observe(this, (newValue) -> {
+        /*chatModel.selectedMessage.observe(this, (newValue) -> {
             MessageDetailsFragment chatFragment = new MessageDetailsFragment(newValue);
             chatFragment.displayMessage(newValue);
             getFragmentManager()
@@ -119,7 +119,7 @@ public class ChatRoom extends AppCompatActivity {
                     .addToBackStack("")
                     .replace(R.id.fragmentLocation, chatFragment)
                     .commit();
-        });
+        });*/
         if(messages == null)
         {
             chatModel.messages.setValue(messages = new ArrayList<>());
